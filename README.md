@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FredericoGarciasAlves/FredericoGarciasAlves/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
